@@ -1,4 +1,4 @@
 
-### Hardware game implemented by Verilog, FPGA board, breadboard and a sound sensor.
+### Hardware game implemented using Verilog, and realized using a FPGA board, a breadboard and a sound sensor.
 
 
